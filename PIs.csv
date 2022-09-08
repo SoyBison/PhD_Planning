@@ -1,2 +1,25 @@
-Priority,Name,Focus,School,Site,Open,LEvel
-,1,1,1,1,1,1
+School,Program,Priority,Name,Focus,Site,Open,Level,Notes
+Columbia,Stats,Yes,Andrew Gelman,PolySci/SciComp,http://www.stat.columbia.edu/~gelman/,Yes,Endowed,
+Columbia,CS,Yes,Elias Bareinboim,Causal Inference,https://datascience.columbia.edu/people/elias-bareinboim/,Yes,Associate,
+Columbia,CS,Yes,Alexandr Andoni,BigData/HighDim,http://www.cs.columbia.edu/~andoni/,Yes,Associate,
+Columbia,CS,Yes,David Blei,Bayes/Topics/ProbModeling,http://www.cs.columbia.edu/~blei/,Yes,Full,
+Columbia,Edu/CS,No,Paulo Blikstein,Learning,https://tltlab.org/,Yes,Associate,
+Columbia,Risk/Ops,Yes,Daniel Russo,Reinforcement/OnlineDM,https://djrusso.github.io/,Unk,Associate,
+Columbia,Risk/Ops,Yes,Hongseok Namkoong,ML and DM,https://hsnamkoong.github.io/,Unk,Assistant,
+Columbia,Risk/Ops,Yes,Will Ma,"Games, Data and DM",http://www.columbia.edu/~wm2428/?_ga=2.231200540.209420847.1662648573-1029973628.1662648573,Unk,Assistant,
+Columbia,Ind/Ops,Yes,Eric Balkanski,DM/Big Data/Network,http://ericbalkanski.com/,Unk,Assistant,
+Columbia,Ind/Ops,No,Ton Dieker,Low Info Prediction/Transfer,,Unk,Associate,
+Columbia,Ind/Ops,Yes,Karl Sigman,Stoochastic Modeling,http://www.columbia.edu/~ks20/,Unk,Full,
+Columbia,Ind/Ops,Yes,Kaizheng Wang,Weak Supervision HiDim,https://kw2934.github.io/,Yes,Assistant,
+Columbia,Ind/Ops,No,Rachel Cummings,Privacy Tradeoffs,https://rachelcummings.com/research/,Unk,Assistant,
+UMich,Econ,No,Justin Wolfers,Behavioral,https://users.nber.org/~jwolfers/index.php,Unk,Full,
+Stanford,Business,No,Neil Malhotra,Polarization,https://web.stanford.edu/~neilm/,Unk,Full,
+Harvard,Kennedy,Yes,Sharad Goel,Algorithms and Society,https://5harad.com/,Unk,Full,
+Wharton,Ops,Yes,Etan Green,DRL Applications!,https://etangreen.github.io/,Might Not Be,Assistant,"High Risk, Might be looking for a way out of academia..."
+NYU,CS,Yes,Julain Togelius,AI and Recreational Games,http://julian.togelius.com/,Yes,Associate,
+NYU,CS,Yes,Claudio Silva,Sound and Vis,https://ctsilva.github.io/,Unk,Full,
+Sloan,Management,Yes,Vicky Yang,Collective Behavior,http://www.vcyang.com/,Unk,Assistant,
+Sloan,Management,Yes,Sinan Aral,Digital Economy and Info,https://www.sinanaral.io/,Yes,Endowed,
+Annenberg,Annenberg,Yes,Yphtach Lelkes,Political Psych,https://www.ylelkes.com/,Unk,Associate,
+Wharton,Ops/CS,Yes,Duncan Watts,Do I have to fill this out?,https://duncanjwatts.com/,Yes,Endowed,
+Columbia,PoliSci,No,Eunji Kim,Public Opinion,https://www.eunjikim.pub/,Unk,Assistant,
