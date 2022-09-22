@@ -1,37 +1,47 @@
-School,Program,Priority,Name,Focus,Site,Open,Level,Notes
-Annenberg,Annenberg,Yes,Yphtach Lelkes,Political Psych,https://www.ylelkes.com/,Unk,Associate,
-Columbia,Stats,Yes,Andrew Gelman,PolySci/SciComp,http://www.stat.columbia.edu/~gelman/,Yes,Endowed,
-Columbia,CS,Yes,Elias Bareinboim,Causal Inference,https://datascience.columbia.edu/people/elias-bareinboim/,Yes,Associate,
-Columbia,CS,Yes,Alexandr Andoni,BigData/HighDim,http://www.cs.columbia.edu/~andoni/,Yes,Associate,
-Columbia,CS,Yes,David Blei,Bayes/Topics/ProbModeling,http://www.cs.columbia.edu/~blei/,Yes,Full,
-Columbia,Edu/CS,No,Paulo Blikstein,Learning,https://tltlab.org/,Yes,Associate,
-Columbia,Risk/Ops,Yes,Daniel Russo,Reinforcement/OnlineDM,https://djrusso.github.io/,Unk,Associate,
-Columbia,Risk/Ops,Yes,Hongseok Namkoong,ML and DM,https://hsnamkoong.github.io/,Unk,Assistant,
-Columbia,Risk/Ops,Yes,Will Ma,"Games, Data and DM",http://www.columbia.edu/~wm2428/?_ga=2.231200540.209420847.1662648573-1029973628.1662648573,Unk,Assistant,
-Columbia,Ind/Ops,Yes,Eric Balkanski,DM/Big Data/Network,http://ericbalkanski.com/,Unk,Assistant,
-Columbia,Ind/Ops,No,Ton Dieker,Low Info Prediction/Transfer,,Unk,Associate,
-Columbia,Ind/Ops,Yes,Karl Sigman,Stoochastic Modeling,http://www.columbia.edu/~ks20/,Unk,Full,
-Columbia,Ind/Ops,Yes,Kaizheng Wang,Weak Supervision HiDim,https://kw2934.github.io/,Yes,Assistant,
-Columbia,Ind/Ops,No,Rachel Cummings,Privacy Tradeoffs,https://rachelcummings.com/research/,Unk,Assistant,
-Columbia,PoliSci,No,Eunji Kim,Public Opinion,https://www.eunjikim.pub/,Unk,Assistant,
-Cornell,Info,Yes,Mor Naaman,CSS,https://people.jacobs.cornell.edu/mor/,Yes,Full,"Has a weird ""need not apply"" clause on his website but idk why anyone who doesn't fit it would *want* to work with him."
-Cornell,Info,No,Nicola Dell,CSS Impact,http://www.nixdell.com/,Unk,Associate,I know I don't really want  to do impact but she seems to have a healthy philosophy on it.
-Cornell,Info,Yes,Jeff Rzeszotarski,Vis And Social Computing,http://jeffrz.com/,Yes,Assistant,Def email him
-Cornell,Info,Yes,Yian Yin,CSS,https://www.yianyin.net/,Yes (very),Fresh Assistant,"New kid, not sure which campus he'll be on..."
-Harvard,Kennedy,Yes,Sharad Goel,Algorithms and Society,https://5harad.com/,Unk,Full,
-MIT,IDSS,Yes,Guy Bresler,Hi Dims,https://www.mit.edu/~gbresler/,Unk,Associate,
-MIT,IDSS,No,D. Fox Harrell,"Art, Video Games, etc",,Probably Not,Full,Haha say goodbye to academia if you work with this guy. Little too Hum for me probably even though it'd be fun as hell...
-MIT,IDSS/LIDS,Yes,Tamara Broderick,"Bayes, UML",https://tamarabroderick.com/,Yes,Associate,Might be too hard for me as with most CSAILs
-MIT,CSAIL,Yes,Joshua Tenenbaum,Computational Cognition!,http://web.mit.edu/cocosci/josh.html,Unk,Full,
-MIT,CSAIL,No,Aleksander Mądry,Responsible AI,https://madry.mit.edu/,Yes,Full,MSRNE Alum
-MIT,CSAIL,No,Costis Daskalakis,Comp Game Theory,http://people.csail.mit.edu/costis/,Unk,Endowed?,
-NYU,CS,Yes,Julain Togelius,AI and Recreational Games,http://julian.togelius.com/,Yes,Associate,
-NYU,CS,Yes,Claudio Silva,Sound and Vis,https://ctsilva.github.io/,Unk,Full,
-NYU,CS,No,Kyunghyun Cho,"ML, NLP",https://www.kyunghyuncho.me/,Yes,Associate,Bengio-Associated
-NYU,DS,Yes,Brenden Lake,Computational Cognition,https://cims.nyu.edu/~brenden/,Yes,Assistant,
-Sloan,Management,Yes,Vicky Yang,Collective Behavior,http://www.vcyang.com/,Unk,Assistant,
-Sloan,Management,Yes,Sinan Aral,Digital Economy and Info,https://www.sinanaral.io/,Yes,Endowed,
-Stanford,Business,No,Neil Malhotra,Polarization,https://web.stanford.edu/~neilm/,Unk,Full,
-UMich,Econ,No,Justin Wolfers,Behavioral,https://users.nber.org/~jwolfers/index.php,Unk,Full,
-Wharton,Ops,Yes,Etan Green,DRL Applications!,https://etangreen.github.io/,Might Not Be,Assistant,"High Risk, Might be looking for a way out of academia..."
-Wharton,Ops/CS,Yes,Duncan Watts,Do I have to fill this out?,https://duncanjwatts.com/,Yes,Endowed,
+School,Program,Priority,Name,Focus,Site,Open,Level,Notes,Notes_re0
+Annenberg,Annenberg,Yes,Yphtach Lelkes,Political Psych,https://www.ylelkes.com/,Unk,Associate,,
+Columbia,Stats,Yes,Andrew Gelman,PolySci/SciComp,http://www.stat.columbia.edu/~gelman/,Yes,Endowed,,
+Columbia,CS,Yes,Elias Bareinboim,Causal Inference,https://datascience.columbia.edu/people/elias-bareinboim/,Yes,Associate,,
+Columbia,CS,Yes,Alexandr Andoni,BigData/HighDim,http://www.cs.columbia.edu/~andoni/,Yes,Associate,,
+Columbia,CS,Yes,David Blei,Bayes/Topics/ProbModeling,http://www.cs.columbia.edu/~blei/,Yes,Full,,
+Columbia,Edu/CS,No,Paulo Blikstein,Learning,https://tltlab.org/,Yes,Associate,,
+Columbia,Risk/Ops,Yes,Daniel Russo,Reinforcement/OnlineDM,https://djrusso.github.io/,Unk,Associate,,
+Columbia,Risk/Ops,Yes,Hongseok Namkoong,ML and DM,https://hsnamkoong.github.io/,Unk,Assistant,,
+Columbia,Risk/Ops,Yes,Will Ma,"Games, Data and DM",http://www.columbia.edu/~wm2428/?_ga=2.231200540.209420847.1662648573-1029973628.1662648573,Unk,Assistant,,
+Columbia,Ind/Ops,Yes,Eric Balkanski,DM/Big Data/Network,http://ericbalkanski.com/,Unk,Assistant,,
+Columbia,Ind/Ops,No,Ton Dieker,Low Info Prediction/Transfer,,Unk,Associate,,
+Columbia,Ind/Ops,Yes,Karl Sigman,Stoochastic Modeling,http://www.columbia.edu/~ks20/,Unk,Full,,
+Columbia,Ind/Ops,Yes,Kaizheng Wang,Weak Supervision HiDim,https://kw2934.github.io/,Yes,Assistant,,
+Columbia,Ind/Ops,No,Rachel Cummings,Privacy Tradeoffs,https://rachelcummings.com/research/,Unk,Assistant,,
+Columbia,PoliSci,No,Eunji Kim,Public Opinion,https://www.eunjikim.pub/,Unk,Assistant,,
+Cornell,Info,Yes,Mor Naaman,CSS,https://people.jacobs.cornell.edu/mor/,Yes,Full,"Has a weird ""need not apply"" clause on his website but idk why anyone who doesn't fit it would *want* to work with him.",Has a 
+Cornell,Info,No,Nicola Dell,CSS Impact,http://www.nixdell.com/,Unk,Associate,I know I don't really want  to do impact but she seems to have a healthy philosophy on it.,I kno
+Cornell,Info,Yes,Jeff Rzeszotarski,Vis And Social Computing,http://jeffrz.com/,Yes,Assistant,Def email him,Def email him
+Cornell,Info,Yes,Yian Yin,CSS,https://www.yianyin.net/,Yes (very),Fresh Assistant,"New kid, not sure which campus he'll be on...",Ne
+Harvard,Kennedy,Yes,Sharad Goel,Algorithms and Society,https://5harad.com/,Unk,Full,"FOD, email","FOD, email"
+MIT,IDSS,Yes,Guy Bresler,Hi Dims,https://www.mit.edu/~gbresler/,Unk,Associate,,
+MIT,IDSS,No,D. Fox Harrell,"Art, Video Games, etc",,Probably Not,Full,Haha say goodbye to academia if you work with this guy. Little too Hum for me probably even though it'd be fun as hell...,Haha say goodbye to academia if you 
+MIT,IDSS/LIDS,Yes,Tamara Broderick,"Bayes, UML",https://tamarabroderick.com/,Yes,Associate,Might be too hard for me as with most CSAILs,Might be too hard for me as 
+MIT,CSAIL,Yes,Joshua Tenenbaum,Computational Cognition!,http://web.mit.edu/cocosci/josh.html,Unk,Full,,
+MIT,CSAIL,No,Aleksander Mądry,Responsible AI,https://madry.mit.edu/,Yes,Full,MSRNE Alum,MSRNE Alum
+MIT,CSAIL,No,Costis Daskalakis,Comp Game Theory,http://people.csail.mit.edu/costis/,Unk,Endowed?,,
+NYU,CS,Yes,Julain Togelius,AI and Recreational Games,http://julian.togelius.com/,Yes,Associate,,
+NYU,CS,Yes,Claudio Silva,Sound and Vis,https://ctsilva.github.io/,Unk,Full,,
+NYU,CS,No,Kyunghyun Cho,"ML, NLP",https://www.kyunghyuncho.me/,Yes,Associate,Bengio-Associated,Bengio-Associated
+NYU,DS,Yes,Brenden Lake,Computational Cognition,https://cims.nyu.edu/~brenden/,Yes,Assistant,,
+NYU,DS,Yes,Grace Lindsay,Computational Cognition,https://gracewlindsay.com/,Unk,Fresh Assistant,"Both her and Lake, I might not be qualified for. Would be fun though.","Both her and Lake, I might not be qualified for. "
+NYU,DS,Yes,Brian McFee,Audio,https://brianmcfee.net/#home,Unk,Assistant,Basically everything having to do with DS on audio. Uwaaaa so lovely!,Basically everything having to do 
+NYU,DS,Yes,Julia Stoyanovich,Applications and Real World Consequences,https://engineering.nyu.edu/faculty/julia-stoyanovich,Unk,Associate,"Only one at NYU I'm *really* qualified for, also lovely work.","Only one at NYU I'm *really* qualified for, also lovely "
+NYU,DS,No,Andrew Gordon Wilson,"Bayes, Gauss, and Kernel Learning",https://cims.nyu.edu/~andrewgw/,Unk,Associate,"Again, may not be qualified for him, but maybe could be convinced as an applicator?","Again, may not be qualified for him, but maybe could be convinced as an applicator?"
+Sloan,Management,Yes,Vicky Yang,Collective Behavior,http://www.vcyang.com/,Unk,Assistant,,
+Sloan,Management,Yes,Sinan Aral,Digital Economy and Info,https://www.sinanaral.io/,Yes,Endowed,,
+Stanford,Business,No,Neil Malhotra,Polarization,https://web.stanford.edu/~neilm/,Unk,Full,,
+UMich,Econ,No,Justin Wolfers,Behavioral,https://users.nber.org/~jwolfers/index.php,Unk,Full,,
+Wharton,Ops,Yes,Etan Green,DRL Applications!,https://etangreen.github.io/,Might Not Be,Assistant,"High Risk, Might be looking for a way out of academia...","High Risk, Might be looking for a "
+Wharton,Ops/CS,Yes,Duncan Watts,Do I have to fill this out?,https://duncanjwatts.com/,Yes,Endowed,,
+UChicago,CS,Yes,Chenhao Tan,Human Centered AI,https://chicagohai.github.io/,Unk,Assistant,Long Standing Fave,Long Standing Fave
+UChicago,CS,Yes,Heifeng Xu,Economics and AI,https://www.haifeng-xu.com/,Yes,Assistant,New guy in the Social Push from Uchicago,Ne
+UChicago,CS,No,Rina Foygel Barber,Sparse Models,https://rinafb.github.io/,Unk,Full,"Would be working as an Applicator, not a problem but she doesn't seem to do that kind of work.",
+UChicago,CS,No,Henry Hoffman,Self Aware and Adaptive Compujting,https://cs.uchicago.edu/people/henry-hoffmann/,Unk,Associate,Another persen for whom Im nto really qualified,Another persen for 
+UChicago,CS,Yes,Ben Zhao,Big Data and Networks,http://people.cs.uchicago.edu/~ravenben/,Yes,Full,Joint with heather zheng,Joint 
+UChicago,CS,Yes,Heather Zheng,Big Data and Networking,https://cs.uchicago.edu/people/heather-zheng/,Yes,Full,Joint with ben zhao,Joint 
